@@ -1,0 +1,7 @@
+C:\Users\Carlos\source\repos\Mercadinho Do Carlos\Mercadinho Do Carlos\bin\Debug\Mercadinho Do Carlos.exe.config
+C:\Users\Carlos\source\repos\Mercadinho Do Carlos\Mercadinho Do Carlos\bin\Debug\Mercadinho Do Carlos.exe
+C:\Users\Carlos\source\repos\Mercadinho Do Carlos\Mercadinho Do Carlos\bin\Debug\Mercadinho Do Carlos.pdb
+C:\Users\Carlos\source\repos\Mercadinho Do Carlos\Mercadinho Do Carlos\obj\Debug\Mercadinho Do Carlos.csprojAssemblyReference.cache
+C:\Users\Carlos\source\repos\Mercadinho Do Carlos\Mercadinho Do Carlos\obj\Debug\Mercadinho Do Carlos.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\source\repos\Mercadinho Do Carlos\Mercadinho Do Carlos\obj\Debug\Mercadinho Do Carlos.exe
+C:\Users\Carlos\source\repos\Mercadinho Do Carlos\Mercadinho Do Carlos\obj\Debug\Mercadinho Do Carlos.pdb
